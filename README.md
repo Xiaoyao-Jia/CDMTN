@@ -1,5 +1,4 @@
-# Implementation of the paper "TCDM: A Clinical Data Oriented Thyroid Cancer Diagnostic Model
-
+# Implementation of the paper "CDMTN: A Computer-aided Diagnostic Model of Thyroid Nodules oriented to clinical data
 
 
 # Tools
