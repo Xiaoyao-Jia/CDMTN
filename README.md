@@ -1,4 +1,4 @@
-# Implementation of the paper "CDMTN: A Computer-aided Diagnostic Model of Thyroid Nodules oriented to clinical data
+# Implementation of the paper "IDBMTN：An Interpretable Diagnosis of Benign and Malignant Thyroid Nodules for clinical data
 
 
 # Tools
