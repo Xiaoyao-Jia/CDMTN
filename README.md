@@ -1,4 +1,4 @@
-# Implementation of the paper "IDBMTN：An Interpretable Diagnosis of Benign and Malignant Thyroid Nodules for clinical data
+# Implementation of the paper "IMDTN: A highly Interpretable Model for the Diagnosis of Thyroid Nodules"
 
 
 # Tools
