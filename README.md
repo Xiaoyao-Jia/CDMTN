@@ -1,4 +1,4 @@
-# Implementation of the paper "IMDTN: A highly Interpretable Model for the Diagnosis of Thyroid Nodules"
+# Implementation of the paper "IMDTN: A highly Interpretable AI Model for the Diagnosis of Thyroid Nodules"
 
 
 # Tools
